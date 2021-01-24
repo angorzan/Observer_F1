@@ -4,7 +4,7 @@ import f1.user.User;
 
 public class AppSMS {
 	
-	public static AppSMS instance;
+	private static AppSMS instance;
 	private String infoSMS = "SMS: F1 is the best";
 	
 	private AppSMS() {

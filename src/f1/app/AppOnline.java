@@ -4,7 +4,7 @@ import f1.user.User;
 
 public class AppOnline {
 
-	public static AppOnline instance;
+	private static AppOnline instance;
 	private String onlineBroadcast = "Let's watch the online broadcast";
 
 	private AppOnline() {
