@@ -1,14 +1,9 @@
-# Application for F1 fans
+# Observer F1
 
-![UML Diagram](./F1App.svg)
 
 ### Start
 
-Run the file UI.java to subscribe / unsubscribe to SMS notifications or to subscribe / unsubscribe from the application that allows you to watch F1 matches live.
-
-### Development
-
-Run the main.java file
+Run the file ObserverDemo.java to subscribe / unsubscribe to channel and receive updates.
 
 ### Master developer
 Anna Górzanowska
